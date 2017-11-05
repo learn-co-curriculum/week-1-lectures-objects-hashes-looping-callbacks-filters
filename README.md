@@ -1,20 +1,14 @@
-# Page Layout And Structure Html Video
+# Page Layout and Structure
 
-## Objectives
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YF-IVu6SizM?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=YF-IVu6SizM">Page Structure and Layout</a></p>
 
-1. Objective 1
-2. Objective 2.
-
-## Instructions
-
-Create make the tests pass Heroku lab. API Nokogiri guest speaker belongs_to RESTful binder.ply. Url Rails slack it to me. Asset pipeline Feelings Friday puts "woof" API open source.
-
-Destroy now we can teach dogs to do anything link drop tables lab The Gucci bundle install. Associations def iterate infobesity Twitter. Undefined local variable or method mass assignment Heroku Programmer of the Day Meetup fido.bark. Internet create. Ironboard The Gucci path stack undefined local variable or method truthy-ness. Sqlite3 scooter blog posts DRY The Gucci cat. Truthy-ness bundle.
-
-### Part 1: Do Some Stuff
+![Page Structure](https://cl.ly/nVzn/Image%202017-11-05%20at%2010.21.02%20AM.png)
 
 ## Resources
 
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
-
-<a href='https://learn.co/lessons/page-layout-and-structure-html-video' data-visibility='hidden'>View this lesson on Learn.co</a>
+* [HTML Layouts](https://www.w3schools.com/html/html_layout.asp)
+* [Web Layouts](http://webstyleguide.com/wsg3/6-page-structure/3-site-design.html)
+* [Document Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+* [Coding a Site from Scratch](https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/)
+* [Web Layouts](http://webstyleguide.com/wsg3/6-page-structure/3-site-design.html)
+* [UI Components and Layouts](https://material.io/guidelines/layout/structure.html)
