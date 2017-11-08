@@ -9,5 +9,5 @@ This was a live study group recorded November 7th 2017.
 * [Object Oriented CSS](http://blog.kate-travers.com/csmess-refactoring-css-with-object-oriented-design/)
 * [Semantic HTML 5 Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Shortcut Foo](https://www.shortcutfoo.com/)
-* [BaseCS])(https://medium.com/basecs)
+* [BaseCS](https://medium.com/basecs)
 * [Tom Dale How to Center a Div](https://twitter.com/tomdale/status/373573132939837440)
