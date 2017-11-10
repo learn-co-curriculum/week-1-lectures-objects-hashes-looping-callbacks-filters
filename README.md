@@ -1,13 +1,9 @@
-# Study Group - HTML / CSS + Lil JS
+# Study Group - JS
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GOeLuLrQjpM?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=GOeLuLrQjpM">Study Group - HTML / CSS + Lil JS</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_8L7IGAiK1I?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=_8L7IGAiK1I">Study Group - JS</a></p>
 
-This was a live study group recorded November 7th 2017.
+This was a live study group recorded November 9th 2017.
 
 ## Resources
 
-* [Object Oriented CSS](http://blog.kate-travers.com/csmess-refactoring-css-with-object-oriented-design/)
-* [Semantic HTML 5 Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
-* [Shortcut Foo](https://www.shortcutfoo.com/)
-* [BaseCS](https://medium.com/basecs)
-* [Tom Dale How to Center a Div](https://twitter.com/tomdale/status/373573132939837440)
+* [Javascript Tutorial](https://javascript.info/)
