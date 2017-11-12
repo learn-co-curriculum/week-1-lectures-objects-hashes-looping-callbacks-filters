@@ -1,9 +1,11 @@
-# Study Group - JS
+# Solving the Control Flow Lab
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_8L7IGAiK1I?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=_8L7IGAiK1I">Study Group - JS</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/-DyXy5kWtuU?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=https://youtu.be/-DyXy5kWtuU">Solving Control Flow</a></p>
 
-This was a live study group recorded November 9th 2017.
+[Solution](https://gist.github.com/aviflombaum/3f38fbc1304713eda2cddcd944b7858b)
 
 ## Resources
 
-* [Javascript Tutorial](https://javascript.info/)
+* [Control Flow on CodeAcademy](https://www.codecademy.com/courses/javascript-beginner-en-qDwp0/0/1)
+* [Control Flow](http://culttt.com/2012/10/29/javascript-control-flow-structures/)
+* [Control Flow Elequent Javascript](http://eloquentjavascript.net/02_program_structure.html#h_rDxYNPd65Z)
